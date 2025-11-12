@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Renata eu te amo!</h1>
+  return <h1>Continuous Deployment</h1>
 }
 
 export default Home;
